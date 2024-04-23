@@ -8,7 +8,7 @@ with open('data.json', 'r') as file:
         # 普通用户
     current_directory = os.getcwd()
 print("----------提醒----------")
-print("项目地址：https://github.com/JasonYANG170/AutoCheckBJMF")
+print("项目地址：https://github.com/JasonYANG170/WaterKing")
 print("data.json文件位置：", current_directory)
 print("----------配置信息(必填)----------")
 if (json_data['OFFID1'] == "123"):
