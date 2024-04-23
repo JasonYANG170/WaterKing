@@ -9,11 +9,10 @@ with open('data.json', 'r') as file:
     current_directory = os.getcwd()
 print("----------提醒----------")
 print("项目地址：https://github.com/JasonYANG170/AutoCheckBJMF")
-print("请查看教程以获取DeviceID")
 print("data.json文件位置：", current_directory)
 print("----------配置信息(必填)----------")
 if (json_data['OFFID1'] == "123"):
-    print("请通过查看教程抓包获取设备ID")
+    print("请通过查看教程获取URL")
     url = input("请输入粘贴的URL：")
     parsed_url = urlparse(url)
     query_params = parse_qs(parsed_url.query)
