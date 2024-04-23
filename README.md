@@ -1,14 +1,16 @@
 <div align="center">
-    <h1>AutoCheckBJMF 班级魔方自动签到</h1>
-    <img src="https://img.shields.io/github/license/JasonYANG170/AutoCheckBJMF?label=License&style=for-the-badge">
-    <img src="https://img.shields.io/github/commit-activity/w/JasonYANG170/AutoCheckBJMF?style=for-the-badge">
-<img src="https://img.shields.io/github/languages/count/JasonYANG170/AutoCheckBJMF?logo=python&style=for-the-badge">
+    <h1>WaterKing 水闸开阀程序 </h1>
+    <img src="https://img.shields.io/github/license/JasonYANG170/WaterKing?label=License&style=for-the-badge">
+    <img src="https://img.shields.io/github/commit-activity/w/JasonYANG170/WaterKing?style=for-the-badge">
+<img src="https://img.shields.io/github/languages/count/JasonYANG170/WaterKing?logo=python&style=for-the-badge">
 	<br>
     	<a href="https://discord.com/invite/az3ceRmgVe"><img alt="Discord" src="https://img.shields.io/discord/978108215499816980?style=social&logo=discord&label=echosec"></a>
   <br>
-<img src="https://github.com/JasonYANG170/AutoCheckBJMF/assets/39414350/7400a5d2-1031-4e31-b189-4cbfa2df51e6">
 	
-这是一项基于Python语言的班级魔方GPS自动签到Script
+![image](https://github.com/JasonYANG170/WaterKing/assets/39414350/e6bc7573-e636-4452-9f2d-d6d9fc4d0d62)
+
+	
+这是一项基于Python语言的亿玛信诺水表开阀程序
 
 <br>
 
@@ -16,26 +18,24 @@
 
 ## 支持平台
 **Windows、Mac、Linux**
-## 支持的签到模式  
-- ✅ 二维码签到（验证通过）
-- ✅ GPS签到  （验证通过）
-- 🚧 密码签到  
+## 支持的设备  
+- ✅ 亿玛信诺水表
+
 
 ## 功能
-- ✅ 支持定时开启签到
-- ✅ 支持24小时无人值守
+- ✅ 支持URL配置信息
+- ✅ 支持免费开阀
+- ✅ 支持隐私保护模式
 - ✅ 支持msi安装包一键式安装
-- ✅ 支持自定义经纬度完成定位签到
-- ✅ 支持循环检测GPS及扫码签到任务
-- ✅ 支持自动导入data.json配置文件 （感谢[Halogly](https://github.com/Halogly)）
+- ✅ 支持自动导入data.json配置文件
 - ✅ 支持自动保存信息到data.json文件
-- ✅ 支持连续签到，无需重复抓取Cookie值 （感谢[Moeus](https://github.com/Moeus)）
+
 
 
 如遇问题，请向我提出issues
 
 ## 使用教程
-维基Wiki https://github.com/JasonYANG170/AutoCheckBJMF/wiki
+维基Wiki https://github.com/JasonYANG170/WaterKing/wiki
 
 
 
