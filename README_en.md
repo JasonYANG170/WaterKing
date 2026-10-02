@@ -1,7 +1,7 @@
 [简体中文](README.md) | [English](README_en.md)
 
 <div align="center">
-    <h1>WaterKing 水闸开阀程序 </h1>
+    <h1>WaterKing water meter valve control</h1>
     <img src="https://img.shields.io/github/license/JasonYANG170/WaterKing?label=License&style=for-the-badge">
     <img src="https://img.shields.io/github/commit-activity/w/JasonYANG170/WaterKing?style=for-the-badge">
 <img src="https://img.shields.io/github/languages/count/JasonYANG170/WaterKing?logo=python&style=for-the-badge">
@@ -12,32 +12,32 @@
 ![image](https://github.com/JasonYANG170/WaterKing/assets/39414350/e6bc7573-e636-4452-9f2d-d6d9fc4d0d62)
 
 	
-这是一项基于Python语言的亿玛信诺水表开阀程序
+A Python program for opening the valve of Yima Xinnuo water meters.
 
 <br>
 
 </div>
 
-## 支持平台
+## Support platform
 **Windows、Mac、Linux**
-## 支持的设备  
-- ✅ 亿玛信诺水表
+## Supported devices
+- ✅Yima Xinnuo water meters
 
 
-## 功能
-- ✅ 支持URL配置信息
-- ✅ 支持免费开阀
-- ✅ 支持隐私保护模式
-- ✅ 支持msi安装包一键式安装
-- ✅ 支持自动导入data.json配置文件
-- ✅ 支持自动保存信息到data.json文件
+## Features
+- ✅ Support URL configuration information
+- ✅ Support free valve opening
+- ✅Support privacy protection mode
+- ✅ Supports one-click installation of msi installation package
+- ✅ Supports automatic import of data.json configuration file
+- ✅ Supports automatically saving information to data.json file
 
 
 
-如遇问题，请向我提出issues
+If you encounter any problems, please submit issues to me
 
-## 使用教程
-维基Wiki https://github.com/JasonYANG170/WaterKing/wiki
+## Tutorial
+Wiki: https://github.com/JasonYANG170/WaterKing/wiki
 
 
 
